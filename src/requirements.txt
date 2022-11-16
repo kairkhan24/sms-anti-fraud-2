@@ -1,0 +1,9 @@
+sentry-sdk
+django
+djangorestframework
+django-redis
+requests
+python-decouple
+psycopg2-binary
+pytest
+pytest-django
